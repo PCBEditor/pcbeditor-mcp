@@ -1,0 +1,15 @@
+{
+  "name": "pcbeditor",
+  "description": "PCBEditor: design, route, check and export PCBs from Claude Code",
+  "owner": {
+    "name": "PCBEditor",
+    "url": "https://pcbeditor.com"
+  },
+  "plugins": [
+    {
+      "name": "pcbeditor",
+      "source": "./plugins/pcbeditor",
+      "description": "Connects Claude Code to PCBEditor's hosted MCP server: design, route, check, review and export manufacturable PCBs from plain language."
+    }
+  ]
+}

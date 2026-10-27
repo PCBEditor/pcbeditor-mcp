@@ -1,0 +1,9 @@
+{
+  "name": "pcbeditor",
+  "version": "1.3.10",
+  "mcpServers": {
+    "pcbeditor": {
+      "httpUrl": "https://mcp.pcbeditor.com/mcp"
+    }
+  }
+}

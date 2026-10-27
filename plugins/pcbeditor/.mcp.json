@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pcbeditor": {
+      "type": "http",
+      "url": "https://mcp.pcbeditor.com/mcp"
+    }
+  }
+}
