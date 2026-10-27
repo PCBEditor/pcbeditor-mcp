@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="29 55 210 210" role="img" aria-label="PCBEditor Copper Signal app icon">
+  <defs>
+    <mask id="via-holes" maskUnits="userSpaceOnUse" x="29" y="55" width="210" height="210">
+      <rect x="29" y="55" width="210" height="210" fill="white"/>
+      <circle cx="73" cy="75" r="7" fill="black"/>
+      <circle cx="73" cy="115" r="7" fill="black"/>
+      <circle cx="93" cy="246" r="7" fill="black"/>
+    </mask>
+  </defs>
+  <g mask="url(#via-holes)">
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M73 75H180L214 109V171L180 205H140" stroke="#48F3B1" stroke-width="9.5"/>
+      <path d="M110 95H171.716L194 117.284V162.716L171.716 185H113V218" stroke="#E9AE6B" stroke-width="9.5"/>
+      <path d="M73 115H163.431L174 125.569V154.431L163.431 165H110L93 182V246" stroke="#48F3B1" stroke-width="9.5"/>
+      <path d="M73 115V217" stroke="#38EFA5" stroke-width="9.5"/>
+    </g>
+    <circle cx="110" cy="95" r="6.5" fill="#48F3B1"/>
+    <circle cx="140" cy="205" r="7.5" fill="#48F3B1"/>
+    <circle cx="73" cy="217" r="11.5" fill="#38EFA5"/>
+    <circle cx="73" cy="75" r="17" fill="#E9AE6B"/>
+    <circle cx="73" cy="115" r="16" fill="#E9AE6B"/>
+    <circle cx="93" cy="246" r="17" fill="#E9AE6B"/>
+  </g>
+</svg>

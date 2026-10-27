@@ -1,0 +1,14 @@
+{
+  "name": "pcbeditor",
+  "version": "1.3.10",
+  "description": "Connects Cursor to PCBEditor's hosted MCP server: design, route, check, review and export manufacturable PCBs from plain language.",
+  "author": {
+    "name": "PCBEditor",
+    "email": "support@robodib.com"
+  },
+  "homepage": "https://pcbeditor.com/mcp",
+  "repository": "https://github.com/PCBEditor/pcbeditor-mcp",
+  "license": "MIT",
+  "keywords": ["pcb", "electronics", "kicad", "gerber", "eda", "mcp"],
+  "logo": "assets/logo.svg"
+}
