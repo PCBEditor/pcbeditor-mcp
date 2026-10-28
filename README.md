@@ -1,7 +1,5 @@
 # PCBEditor MCP server
 
-[![MCP Badge](https://lobehub.com/badge/mcp/pcbeditor-pcbeditor-mcp)](https://lobehub.com/mcp/pcbeditor-pcbeditor-mcp)
-
 Design, route, check and export manufacturable printed circuit boards from the AI tool you already use.
 PCBEditor is a hosted (remote) MCP server: add one URL, sign in, and ask for a board in plain language.
 You get it back placed, routed and design-rule checked, with Gerber and KiCad files. Nothing to install.
