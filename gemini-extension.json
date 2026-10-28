@@ -1,6 +1,7 @@
 {
   "name": "pcbeditor",
   "version": "1.3.10",
+  "description": "Design, route, check, review and export manufacturable PCBs (Gerber, KiCad) from plain language with PCBEditor's hosted MCP server.",
   "mcpServers": {
     "pcbeditor": {
       "httpUrl": "https://mcp.pcbeditor.com/mcp"
