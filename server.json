@@ -3,8 +3,19 @@
   "name": "com.pcbeditor/pcbeditor",
   "title": "PCBEditor",
   "description": "Design, route, check, review and export manufacturable PCBs from plain language; KiCad import.",
-  "version": "1.3.10",
+  "version": "1.3.11",
   "websiteUrl": "https://pcbeditor.com/mcp",
+  "repository": {
+    "url": "https://github.com/PCBEditor/pcbeditor-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://pcbeditor.com/icon-maskable-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
